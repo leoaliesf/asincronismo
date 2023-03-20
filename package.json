@@ -1,0 +1,19 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Leonardo alies <leoaliesf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
